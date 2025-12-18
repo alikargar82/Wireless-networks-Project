@@ -1,0 +1,778 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.14)  19 DEC 2025 00:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**part2.tex
+(./part2.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+! Undefined control sequence.
+l.2 \putSec
+           {مکانیزم‌های انتشار}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \putSec{م
+             کانیزم‌های انتشار}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+! Undefined control sequence.
+l.3 \frametitle
+               {مکانیزم‌های اصلی انتشار (\LR{Propagation Mechanisms})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+! Undefined control sequence.
+l.3 \frametitle{مکانیزم‌های اصلی انتشار (\LR
+                                            {Propagation Mechanisms})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--4
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 س
+     ه پدیده اصلی که بر سیگنال تأثیر می‌گذارند:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no پ ("67E) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no أ ("623) in font nullfont!
+Missing character: There is no ث ("62B) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ذ ("630) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{enumerate}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--7
+[] 
+ []
+
+Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
+text;!
+! Undefined control sequence.
+<argument> بازتاب (\LR 
+                       {Reflection}):
+l.8     \item \textbf{بازتاب (\LR{Reflection}):}
+                                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no خ ("62E) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ط ("637) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ث ("62B) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no خ ("62E) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (16.8pt too wide) in paragraph at lines 8--10
+\TU/lmr/bx/n/10 بازتاب
+ []
+
+
+Overfull \hbox (22.2pt too wide) in paragraph at lines 8--10
+\TU/lmr/bx/n/10 (Re-
+ []
+
+
+Overfull \hbox (20.6pt too wide) in paragraph at lines 8--10
+\TU/lmr/bx/n/10 flec-
+ []
+
+
+Overfull \hbox (27.46pt too wide) in paragraph at lines 8--10
+\TU/lmr/bx/n/10 tion):
+ []
+
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ّ (U+0651) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ق (U+0642) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no پ (U+067E) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-bold]:mapping=tex-
+text;!
+! Undefined control sequence.
+<argument> تفرّق یا پراش (\LR 
+                              {Diffraction}):
+l.11 ...\textbf{تفرّق یا پراش (\LR{Diffraction}):}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no خ ("62E) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ق ("642) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ط ("637) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no پ ("67E) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 11--13
+\TU/lmr/bx/n/10 تفرّق
+ []
+
+
+Overfull \hbox (5.6pt too wide) in paragraph at lines 11--13
+\TU/lmr/bx/n/10 یا
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 11--13
+\TU/lmr/bx/n/10 پراش
+ []
+
+
+Overfull \hbox (42.46pt too wide) in paragraph at lines 11--13
+\TU/lmr/bx/n/10 (Diffrac-
+ []
+
+
+Overfull \hbox (27.46pt too wide) in paragraph at lines 11--13
+\TU/lmr/bx/n/10 tion):
+ []
+
+Missing character: There is no پ (U+067E) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no گ (U+06AF) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+! Undefined control sequence.
+<argument> پراکندگی (\LR 
+                         {Scattering}):
+l.14 ...\item \textbf{پراکندگی (\LR{Scattering}):}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no خ ("62E) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ث ("62B) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ق ("642) in font nullfont!
+Missing character: There is no ط ("637) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no خ ("62E) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (22.4pt too wide) in paragraph at lines 14--16
+\TU/lmr/bx/n/10 پراکندگی
+ []
+
+
+Overfull \hbox (29.86pt too wide) in paragraph at lines 14--16
+\TU/lmr/bx/n/10 (Scat-
+ []
+
+
+Overfull \hbox (18.31pt too wide) in paragraph at lines 14--16
+\TU/lmr/bx/n/10 ter-
+ []
+
+
+Overfull \hbox (22.99pt too wide) in paragraph at lines 14--16
+\TU/lmr/bx/n/10 ing):
+ []
+
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+! Undefined control sequence.
+l.20 \frametitle
+                {تلفات مسیر (\LR{Path Loss})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+! Undefined control sequence.
+l.20 \frametitle{تلفات مسیر (\LR
+                                {Path Loss})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 20--21
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--22
+[] 
+ []
+
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (17.19pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 تعریف:
+ []
+
+
+! LaTeX Error: Environment myblock undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \begin{myblock}
+                    {فرمول فضای آزاد (FSPL)}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ض ("636) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no آ ("622) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no F ("46) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+[]
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+
+Overfull \hbox (162.36205pt too wide) detected at line 27
+\OML/cmm/m/it/10 L[] \OT1/cmr/m/n/10 = 20 [][](\OML/cmm/m/it/10 d\OT1/cmr/m/n/1
+0 ) + 20 [][](\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 ) + 32\OML/cmm/m/it/10 :\OT1/cm
+r/m/n/10 44
+ []
+
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+Overfull \hbox (5.20486pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 d$ 
+ []
+
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+Overfull \hbox (5.97226pt too wide) in paragraph at lines 30--31
+\OML/cmm/m/it/10 f$
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{myblock}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{myblock}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ج (U+062C) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ۶ ("6F6) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ب ("628) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ‌ ("200C) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (37.19pt too wide) in paragraph at lines 34--35
+[]\TU/lmr/bx/n/10 نتیجه:
+ []
+
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+
+])
+! Emergency stop.
+<*> part2.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 34 strings out of 473832
+ 676 string characters out of 5729480
+ 388380 words of memory out of 5000000
+ 23196 multiletter control sequences out of 15000+600000
+ 558853 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 23i,5n,22p,125b,128s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on part2.pdf (2 pages).
