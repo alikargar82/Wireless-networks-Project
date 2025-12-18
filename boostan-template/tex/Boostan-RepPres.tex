@@ -7,10 +7,8 @@
 \fi
 
 %% =================================================================================
-% تنظیمات اولیه و لود کردن قالب
 \input{\MyPath src/Boostan-Init}
 
-% *** تغییر ۱: کاهش حاشیه‌ها به ۱ سانتی‌متر برای فضای بیشتر ***
 \usepackage[paperwidth=25.4cm, paperheight=14.29cm, top=1cm, bottom=1cm, left=1cm, right=1cm]{geometry}
 
 \docStyle{Pres}
@@ -18,16 +16,12 @@
 \depRe{none}
 \input{\MyPath src/Boostan-Main}
 
+\colorlet{RoyalPurple}{NavyBlue}
+\colorlet{Plum}{RoyalBlue}
 %% ================================================================================
-% *** تغییر ۲: اجبار به استفاده از فاصله خطوط فشرده (Single Spacing) ***
-% این دستور حیاتی است تا متن‌ها در صفحه اسلاید پخش نشوند
 \usepackage{setspace}
-\singlespacing 
-% یا اگر دستور بالا کار نکرد، از این استفاده می‌کنیم:
-\linespread{1}
 
 %% ================================================================================
-% تنظیمات ظاهری و فونت‌ها
 \sectionfont{\fontsize{21}{23}\selectfont}
 \subsectionfont{\fontsize{19}{21}\selectfont}
 \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{15pt plus 4pt minus 2pt}
@@ -78,7 +72,6 @@
 \bidi@appto{\LTRfoottextfont}{\Large}
 \makeatother
 
-% تعریف باکس رنگی (myblock)
 \usepackage{tcolorbox}
 \newtcolorbox{myblock}[1]{colback=RoyalPurple!5!white,colframe=RoyalPurple!75!black,title=\textbf{#1}, rounded corners}
 
@@ -90,17 +83,14 @@
 \AtBeginDocument{\setlength\abovedisplayskip{4pt}}
 \AtBeginDocument{\setlength\belowdisplayskip{4pt}}
 
-% ===============================================================================
-% شروع بدنه اصلی
-% ===============================================================================
 
 \begin{document}
-    % اعمال مجدد تنظیمات فاصله خطوط در شروع سند
-    \singlespacing
+    
+    \setstretch{1.6} 
 
-    % فراخوانی فایل‌ها
-    \input{parts/part1}  % نفر اول
-    \input{parts/part2}  % نفر دوم
-    \input{parts/part3}  % نفر سوم
+    \input{parts/init}
+    \input{parts/part1}
+    \input{parts/part2}
+    \input{parts/part3}
 
 \end{document}
