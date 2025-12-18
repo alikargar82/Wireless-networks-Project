@@ -83,14 +83,19 @@
 \AtBeginDocument{\setlength\abovedisplayskip{4pt}}
 \AtBeginDocument{\setlength\belowdisplayskip{4pt}}
 
+\newcommand{\mybold}[1]{{\addfontfeature{FakeBold=2.5}#1}}
+
 
 \begin{document}
     
     \setstretch{1.6} 
 
     \input{parts/init}
-    \input{parts/part1}
-    \input{parts/part2}
+    \input{parts/intro}
+    \input{parts/ground_wave}
+    \input{parts/sky_wave}
+    \input{parts/space_wave}
+    \input{parts/consepts}
     \input{parts/part3}
 
 \end{document}
