@@ -1,23 +1,33 @@
-%% Last Update: 01 Apr 2025
-%
+%!TEX root = ./Boostan-RepPres.tex
+%!TEX TS-program = xelatex
+\documentclass[12pt, openany]{report}
 
 \ifx\MyPath\undefined
 \newcommand{\MyPath}{}
 \fi
 
 %% =================================================================================
-\usepackage{comment}
-
+% تنظیمات اولیه و لود کردن قالب
 \input{\MyPath src/Boostan-Init}
-%تخصیص مقدار به این دو متغیر حتما باید قبل از فراخوانی Boostan-Main باشد. 
+
+% *** تغییر ۱: کاهش حاشیه‌ها به ۱ سانتی‌متر برای فضای بیشتر ***
+\usepackage[paperwidth=25.4cm, paperheight=14.29cm, top=1cm, bottom=1cm, left=1cm, right=1cm]{geometry}
+
 \docStyle{Pres}
 \titleStyle{presentation}
 \depRe{none}
 \input{\MyPath src/Boostan-Main}
 
+%% ================================================================================
+% *** تغییر ۲: اجبار به استفاده از فاصله خطوط فشرده (Single Spacing) ***
+% این دستور حیاتی است تا متن‌ها در صفحه اسلاید پخش نشوند
+\usepackage{setspace}
+\singlespacing 
+% یا اگر دستور بالا کار نکرد، از این استفاده می‌کنیم:
+\linespread{1}
 
 %% ================================================================================
-%
+% تنظیمات ظاهری و فونت‌ها
 \sectionfont{\fontsize{21}{23}\selectfont}
 \subsectionfont{\fontsize{19}{21}\selectfont}
 \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{15pt plus 4pt minus 2pt}
@@ -30,13 +40,9 @@
 
 \let\oldfootnote\footnote
     \renewcommand{\footnote}[1]{\oldfootnote{\large\sffamily\rl{#1}}}
-
 \let\oldLTRfootnote\LTRfootnote
     \renewcommand{\LTRfootnote}[1]{\oldLTRfootnote{\large\sffamily#1}}
 
-
-%% =============================================================================
-%فونت شروع بخش‌ها
 \newfontfamily\secTitFont[Scale=3]{B Kamran Outline}
 \newcommand{\putSec}[2][]{%
   \clearpage
@@ -50,19 +56,13 @@
   \vspace*{\fill}%
 }
 
-%% =============================================================================
-%تعریف دستور frametitle برای قراردادن عنوان اسلایدها
-\defpersianfont\titlefontr[Scale=1.7]{IRNazanin}
+\defpersianfont\titlefontr[Scale=1.7, AutoFakeBold=2.0]{IRNazanin}
 \newcommand{\frametitle}[1]{
 \begin{tikzpicture}[remember picture,overlay]
 \node[fill=RoyalPurple!80,rounded corners=5mm,text=white, minimum height=1.5cm, minimum width={\paperwidth*0.99},fill=RoyalPurple!60] at ([yshift=-1cm]current page.north) {{\textbf{\rl{\titlefontr#1}}}};
-\end{tikzpicture}\par%
+\end{tikzpicture}\par\vspace{1cm}%
 }
-\newcommand{\continue}{(ادامه)}
 
-
-%% ===============================================================================
-%شماره‌گذاری اسلایدها
 \newcommand*\circled[1]{\tikz[baseline]{\node[shape=circle,draw=none,inner sep=4pt, draw=RoyalPurple!80,fill=Plum!80,text=white] (char) {\Large #1};}}
 \pagestyle{fancy}
 \fancyhf{}
@@ -70,105 +70,37 @@
 \fancyfoot[L]{\circled{\thepage}}
 \fancyfootoffset{0.5cm}
 
-\newcommand*\footBox[1]{\tikz[baseline]{\node[shape=rectangle,draw=none,inner sep=4pt,  fill=RoyalPurple!60, white,rounded corners=2mm] (char2) {\Large #1};}}
+\DeclareMathSizes{10}{18}{16}{15}   
+\DeclareMathSizes{11}{16}{14}{13}   
+\DeclareMathSizes{12}{18}{16}{15}  
 
-
-%% ===============================================================================
-%افزایش اندازه فرمول‌ها
-\DeclareMathSizes{10}{18}{16}{15}   % For size 10 text
-\DeclareMathSizes{11}{16}{14}{13}   % For size 11 text
-\DeclareMathSizes{12}{18}{16}{15}  % For size 12 text
-\DeclareMathSizes{17.28}{22}{16}{15}   % For size 17.28 text
-
-
-%% ===============================================================================
-%افزایش اندازه فونت شماره footnote
 \makeatletter
 \bidi@appto{\LTRfoottextfont}{\Large}
 \makeatother
 
+% تعریف باکس رنگی (myblock)
+\usepackage{tcolorbox}
+\newtcolorbox{myblock}[1]{colback=RoyalPurple!5!white,colframe=RoyalPurple!75!black,title=\textbf{#1}, rounded corners}
 
-%% ===============================================================================
-%برای تمایزگذاری محیط ‎Manual در هر صفحه
-\newif\ifshowPresNote
-\showPresNotetrue
-
-\newenvironment{presNote}
-{
-\clearpage
-\begin{tikzpicture}[remember picture, overlay]
-\draw [line width=3mm,Orange](current page.south west)--++(15,0);
-\end{tikzpicture}
-\par
-\vskip -20mm
-}
-{}
-
-
-%% ===============================================================================
-%تعریف چند متغیر
- % comment out to hide answers
-\newif\ifMyNote
-\MyNotetrue % comment out to hide answers
-
-
-%% ===============================================================================
-% put color to \boxed math command
 \makeatletter
 \renewcommand{\boxed}[2]{%
 \tikz[baseline]\node [rectangle, minimum width=1ex,rounded corners=3mm,draw,fill=#1,draw=none,anchor=base] {$\displaystyle#2$};}
  \makeatother
 
-
-%% ===============================================================================
-%تغییر حاشیه معادلات
 \AtBeginDocument{\setlength\abovedisplayskip{4pt}}
 \AtBeginDocument{\setlength\belowdisplayskip{4pt}}
 
+% ===============================================================================
+% شروع بدنه اصلی
+% ===============================================================================
 
-%% ===============================================================================
+\begin{document}
+    % اعمال مجدد تنظیمات فاصله خطوط در شروع سند
+    \singlespacing
 
-\usetikzlibrary{decorations.pathmorphing,calc,shadows.blur,shadings}
-\pgfmathsetseed{1} % To have predictable results
-% Define a background layer, in which the parchment shape is drawn
-\pgfdeclarelayer{background}
-\pgfsetlayers{background,main}
+    % فراخوانی فایل‌ها
+    \input{parts/part1}  % نفر اول
+    \input{parts/part2}  % نفر دوم
+    \input{parts/part3}  % نفر سوم
 
-% This is the base for the fractal decoration. It takes a random point between the start and end, and
-% raises it a random amount, thus transforming a segment into two, connected at that raised point
-% This decoration can be applied again to each one of the resulting segments and so on, in a similar
-% way of a Koch snowflake.
-\pgfdeclaredecoration{irregular fractal line}{init}
-{
-  \state{init}[width=\pgfdecoratedinputsegmentremainingdistance]
-  {
-    \pgfpathlineto{\pgfpoint{random*\pgfdecoratedinputsegmentremainingdistance}{(random*\pgfdecorationsegmentamplitude-0.02)*\pgfdecoratedinputsegmentremainingdistance}}
-    \pgfpathlineto{\pgfpoint{\pgfdecoratedinputsegmentremainingdistance}{0pt}}
-  }
-}
-
-% define some styles
-\tikzset{
-   paper/.style={draw=black!10, blur shadow, 
-                 lower left=black!20, upper left=black!15, upper right=white, lower right=black!10},
-   irregular border/.style={decoration={irregular fractal line, amplitude=0.2},
-           decorate,
-     },
-   ragged border/.style={ decoration={random steps, segment length=7mm, amplitude=2mm},
-           decorate,
-   }
-}
-
-% Macro to draw the shape behind the text, when it fits completly in the
-% page
-\def\tornpaper#1{
-\tikz{
-  \node[inner sep=1em] (A) {#1};  % Draw the text of the node
-  \begin{pgfonlayer}{background}  % Draw the shape behind
-  \fill[paper] % recursively decorate the bottom border
-        decorate[irregular border]{decorate{decorate{decorate{decorate[ragged border]{
-        ($(A.south east) - (0, random*5mm)$) -- ($(A.south west) - (0, random*5mm)$)
-        }}}}}
-        -- (A.north west) -- (A.north east) -- cycle;
-  \end{pgfonlayer}}
-}
+\end{document}
